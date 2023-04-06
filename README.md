@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**danny-mhlv/danny-mhlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Daniil Mikhaylov**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+ 1. Web Services
+ 2. Smart-home Application (Backend)
+ 3. Wrapper library over Dahua SDK/API
+- 🌱 I’m currently learning: Go, C, C++
+- 👯 I’m looking to collaborate on:
+1. GameDev Projects (Engine)
+2. Web Services (TS [NestJS], Go)
+3. Basically anything
+- 🤔 I’m looking for help with: C, C++, GameDev Maths
+- 💬 Ask me about: Anything you want!
+- 📫 How to reach me: danny.mhlv@gmail.com
+- ⚡ Favourite quotes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Do it automagically
